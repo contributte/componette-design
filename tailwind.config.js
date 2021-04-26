@@ -123,7 +123,7 @@ module.exports = {
     gridRowEnd: ['responsive', 'hover'],
   },
   plugins: [
-    require('@tailwindcss/custom-forms'),
+    require('@tailwindcss/forms'),
     require('tailwindcss-gradients'),
   ],
 }

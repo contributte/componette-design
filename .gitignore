@@ -1,5 +1,5 @@
-/dist/
-/node_modules/
-/.cache/
-/.idea/
-/.netlify
+.vercel
+/.nuxt
+/dist
+/node_modules
+/public

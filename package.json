@@ -1,27 +1,24 @@
 {
-  "name": "tailwindcss-parcel-starter",
-  "version": "1.0.0",
-  "description": "A simple tailwind starter project with parcel",
+  "name": "componette-design",
+  "version": "0.0.0",
+  "description": "Componette Design Site based on TailwindCSS and Parcel",
   "scripts": {
-    "dev": "npx parcel serve src/*.njk",
-    "prod": "npx parcel build src/*.njk"
-  },
-  "repository": "https://github.com/SantiMA10/tailwindcss-parcel-starter.git",
-  "author": "Santi <santiagomartinagra@gmail.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "@tailwindcss/custom-forms": "^0.2.1",
-    "autoprefixer": "^9.7.5",
-    "nunjucks": "^3.2.1",
-    "parcel-bundler": "^1.12.4",
-    "parcel-plugin-nunjucks": "^2.2.1",
-    "postcss": "^7.0.27",
-    "tailwindcss": "^1.2.0",
-    "tailwindcss-gradients": "^3.0.0",
-    "typescript": "^3.8.3"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "vercel-build": "nuxt generate"
   },
   "dependencies": {
-    "postcss-nested": "^4.2.1",
-    "tailwind": "^4.0.0"
+    "@nuxt/typescript-runtime": "^2.1.0",
+    "nuxt": "^2.15.4"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.4",
+    "@nuxt/typescript-build": "^2.1.0",
+    "@nuxtjs/tailwindcss": "^4.0.3",
+    "@tailwindcss/forms": "^0.3.1",
+    "tailwindcss-gradients": "^3.0.0",
+    "typescript": "^4.2.4"
   }
 }

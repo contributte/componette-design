@@ -1,0 +1,139 @@
+<template>
+  <footer class="bg-white px-2 md:px-4 py-12 lg:py-16 relative overflow-hidden">
+    <div class="container mx-auto">
+      <div class="xl:grid xl:grid-cols-3 px-5 lg:px-8 xl:gap-8">
+        <div class="grid grid-cols-2 gap-8 xl:col-span-2">
+          <div class="md:grid md:grid-cols-2 md:gap-8">
+            <div>
+              <h4 class="text-sm leading-5 font-semibold tracking-wider text-gray-600 uppercase">Contributte</h4>
+              <ul class="mt-4">
+                <li>
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Marketing </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Analytics </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Commerce </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Insights </a>
+                </li>
+              </ul>
+            </div>
+            <div class="mt-12 md:mt-0">
+              <h4 class="text-sm leading-5 font-semibold tracking-wider text-gray-600 uppercase">Contributte</h4>
+              <ul class="mt-4">
+                <li>
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Marketing </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Analytics </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Commerce </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Insights </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="md:grid md:grid-cols-2 md:gap-8">
+            <div>
+              <h4 class="text-sm leading-5 font-semibold tracking-wider text-gray-600 uppercase">Contributte</h4>
+              <ul class="mt-4">
+                <li>
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Marketing </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Analytics </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Commerce </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Insights </a>
+                </li>
+              </ul>
+            </div>
+            <div class="mt-12 md:mt-0">
+              <h4 class="text-sm leading-5 font-semibold tracking-wider text-gray-600 uppercase">Contributte</h4>
+              <ul class="mt-4">
+                <li>
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Marketing </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Analytics </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Commerce </a>
+                </li>
+                <li class="mt-4">
+                  <a href="#" class="text-base leading-6 text-gray-600 hover:text-gray-900"> Insights </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="mt-8 xl:mt-0">
+          <h4 class="text-sm leading-5 font-semibold tracking-wider text-gray-600 uppercase">Subscribe to our newsletter</h4>
+          <p class="mt-4 text-gray-600 text-base leading-6">The latest news, articles, and resources, sent to your inbox weekly.</p>
+          <form class="mt-4 sm:flex sm:max-w-md">
+            <input
+              aria-label="Email address"
+              type="email"
+              required
+              class="appearance-none w-full px-5 py-2 border border-gray-300 text-base leading-6 rounded text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:placeholder-gray-400 transition duration-150 ease-in-out"
+              placeholder="Your e-mail"
+            />
+            <div class="mt-3 rounded-md shadow sm:mt-0 sm:ml-3 sm:flex-shrink-0">
+              <button
+                class="w-full flex items-center justify-center px-6 py-2 border border-transparent text-base leading-6 font-medium rounded text-white bg-teal-600 hover:bg-teal-500 focus:outline-none focus:outline-none transition duration-150 ease-in-out"
+              >
+                Subscribe
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <div class="mt-8 mx-5 lg:mx-8 border-t border-gray-200 pt-8 md:flex md:items-center md:justify-between">
+        <div class="flex md:order-2">
+          <a href="#" class="mr-6 md:mr-0 md:ml-6 text-gray-400 group">
+            <span class="sr-only">GitHub</span>
+            <img loading="lazy" src="https://obr.now.sh/remixicon/logos/slack-fill/64/718096" class="w-6 h-6 transition duration-150 ease-in-out opacity-25 group-hover:opacity-50" />
+          </a>
+          <a href="#" class="mr-6 md:mr-0 md:ml-6 text-gray-400 group">
+            <span class="sr-only">Twitter</span>
+            <img loading="lazy" src="https://obr.now.sh/remixicon/logos/twitter-fill/64/718096" class="w-6 h-6 transition duration-150 ease-in-out opacity-25 group-hover:opacity-50" />
+          </a>
+          <a href="#" class="mr-6 md:mr-0 md:ml-6 text-gray-400 group">
+            <span class="sr-only">Slack</span>
+            <img loading="lazy" src="https://obr.now.sh/remixicon/logos/github-fill/64/718096" class="w-6 h-6 transition duration-150 ease-in-out opacity-25 group-hover:opacity-50" />
+          </a>
+        </div>
+        <div class="flex flex-wrap items-center mt-8 md:mt-0 md:order-1 mb-8 md:mb-0">
+          <a href="" class="uppercase text-blue-800 inline-flex items-center mr-4 font-headers font-medium">
+            <img loading="lazy" src="logo-small.svg" class="h-8 w-8 mr-2" />
+            Componette
+          </a>
+          <p class="text-base leading-6 text-gray-400">New and modern addons portal for Nette Framework.</p>
+        </div>
+      </div>
+    </div>
+    <div class="absolute z-0 left-0 bottom-0 h-0 w-full" aria-label="hidden">
+      <div class="grid grid-cols-12 grid-rows-1 max-w-sm lg:max-w-lg xl:max-w-6xl mx-auto">
+        <div class="col-start-3 xl:col-start-2 row-start-1 col-2 relative">
+          <svg fill="currentColor" viewBox="0 0 100 100" class="text-blue-300 opacity-25 transform -translate-y-1/2 mt-24 -ml-16 sm:-ml-48 md:-ml-72 xl:-ml-96 xl:mt-24 w-64 xl:w-96">
+            <path id="Path_236" d="M12.9,24.2c-2.2,1.4-3.6,3.8-3.7,6.4v38.7c0.1,2.6,1.5,5,3.7,6.4L46.3,95c2.3,1.2,5.1,1.2,7.4,0l33.4-19.3 c2.2-1.4,3.6-3.8,3.7-6.4V30.6c-0.1-2.6-1.5-5-3.7-6.4L53.8,5c-2.3-1.2-5.1-1.2-7.4,0L12.9,24.2z" />
+          </svg>
+        </div>
+        <div class="col-start-3 xl:col-start-2 row-start-1 col-2 relative">
+          <svg fill="currentColor" viewBox="0 0 100 100" class="text-blue-300 opacity-25 transform -translate-y-1/2 mt-16 -ml-40 sm:-ml-72 md:-ml-96 xl:-ml-64 xl:mt-32 w-64 xl:w-96">
+            <path id="Path_236" d="M12.9,24.2c-2.2,1.4-3.6,3.8-3.7,6.4v38.7c0.1,2.6,1.5,5,3.7,6.4L46.3,95c2.3,1.2,5.1,1.2,7.4,0l33.4-19.3 c2.2-1.4,3.6-3.8,3.7-6.4V30.6c-0.1-2.6-1.5-5-3.7-6.4L53.8,5c-2.3-1.2-5.1-1.2-7.4,0L12.9,24.2z" />
+          </svg>
+        </div>
+      </div>
+    </div>
+  </footer>
+</template>
