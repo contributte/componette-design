@@ -1,4 +1,4 @@
-![](https://heatbadger.now.sh/github/readme/contributte/componette-design/)
+![](https://heatbadger.now.sh/github/readme/contributte/componette-design/?deprecated=1)
 
 <p align=center>
   <a href="https://bit.ly/ctteg"><img src="https://badgen.net/badge/support/gitter/cyan"></a>
@@ -33,7 +33,7 @@ Deploy site `vercel`.
 
 See [how to contribute](https://contributte.org/contributing.html) to this package.
 
-This package is currently maintaining by these authors.
+This package was maintained by these authors.
 
 <a href="https://github.com/f3l1x">
   <img width="80" height="80" src="https://avatars2.githubusercontent.com/u/538058?v=3&s=80">
